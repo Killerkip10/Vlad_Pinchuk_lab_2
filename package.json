@@ -1,0 +1,12 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "3.3.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
